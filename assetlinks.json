@@ -1,0 +1,22 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.outlive.app.dev",
+      "sha256_cert_fingerprints": [
+        "37:B0:D7:87:08:3D:F4:F8:42:A3:5E:51:E1:CC:D6:E8:DE:54:AC:BB:CC:9D:71:78:14:22:27:03:DA:F3:DF:25"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.outlive.app.stag",
+      "sha256_cert_fingerprints": [
+        "37:B0:D7:87:08:3D:F4:F8:42:A3:5E:51:E1:CC:D6:E8:DE:54:AC:BB:CC:9D:71:78:14:22:27:03:DA:F3:DF:25"
+      ]
+    }
+  }
+]
